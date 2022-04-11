@@ -14,3 +14,11 @@ Create an [issue](https://github.com/DevArifHossain/saas-idea-validator/issues) 
 
 ### To Give Feeback
 Just visit the [issue page](https://github.com/DevArifHossain/saas-idea-validator/issues) on this repo, check out some ideas and give feedback to ideas by **commenting** on the issue. 
+
+### FAQ
+<details>
+<summary>What if someone steels my idea?</summary>
+    Well on a rare case that may happen! But you have bigger things to worry about.
+    <br />
+    We recommend you watch <a href="https://youtu.be/Zsb8OZBDgtM" target="_blank">this video</a> to learn more details.
+</details>
